@@ -4,7 +4,9 @@ Curso de pseudocódigo con PSeInt
 
 Descarga de PSeInt: https://pseint.sourceforge.net/?page=descargas.php
 
-![Perfil usado para los ejercicios:](./configuracion-perfil-ejercicios.png)
+Perfil usado para los ejercicios:
+
+![](./configuracion-perfil-ejercicios.png)
 
 ## Videos completos
 
