@@ -155,15 +155,25 @@ Rellena los arreglos con numeros aleatorios.
 39. Crea una matriz con la tabla de multiplicar de 1 al 9, tendria que tener el siguiente aspecto:
 
 &nbsp;&nbsp;&nbsp;&nbsp; 01 02 03 04 05 06 07 08 09
+
 01 01 02 03 04 05 06 07 08 09
+
 02 02 04 06 08 10 12 14 16 18
+
 03 03 06 09 12 15 18 21 24 27
+
 04 04 08 12 16 20 24 28 32 36
+
 05 05 10 15 20 25 30 35 40 45
+
 06 06 12 18 24 30 36 42 48 54
+
 07 07 14 21 28 35 42 49 56 63
+
 08 08 16 24 32 40 48 56 64 72
+
 09 09 18 27 36 45 54 63 72 81
+
 
 40. Crea un subproceso que escriba por pantalla "¡Hola mundo!"
 
